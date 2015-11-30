@@ -19,7 +19,7 @@ public class Level {
 	}
 	
 	protected void generateLevel() {
-		
+		//cheese wiz
 	}
 
 	private void loadLevel(String path) {
